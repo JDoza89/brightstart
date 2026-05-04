@@ -43,6 +43,17 @@ STORYBLOK_DELIVERY_API_TOKEN=<REPLACE_WITH_YOUR_TOKEN>
 > Copy your space's preview access token from **Settings** > **Access Tokens**.
 > Learn more about Storyblok [access tokens](https://www.storyblok.com/docs/concepts/access-tokens).
 
+### Recreate the BrightStart space
+
+This repo includes a snapshot of the Storyblok space the project was scaffolded against, under `.storyblok/`. To recreate the same space in your account — so you can compare your own generated content and code against mine — push the components and stories with the Storyblok CLI:
+
+```sh
+storyblok components push --space <your-space-id>
+storyblok stories push --space <your-space-id>
+```
+
+Run both from the repo root. The CLI reads from `.storyblok/components/<source-space-id>/` and `.storyblok/stories/<source-space-id>/`.
+
 ### Connect the Visual Editor
 
 To render a preview of the local project in the Visual Editor, follow these steps:
