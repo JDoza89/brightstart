@@ -1,0 +1,32 @@
+{
+  "name": "rich_text",
+  "display_name": "Rich Text",
+  "description": "Generic prose section for paragraphs, lists, and inline formatting where no structured block fits.",
+  "created_at": "2026-05-04T19:10:46.072Z",
+  "updated_at": "2026-05-04T19:10:46.072Z",
+  "id": 172983279922297,
+  "schema": {
+    "content": {
+      "type": "richtext",
+      "display_name": "Content",
+      "translatable": true,
+      "required": true,
+      "id": "ZTldSmjMT0K5VEXYCiDydA"
+    }
+  },
+  "image": null,
+  "preview_field": null,
+  "is_root": false,
+  "preview_tmpl": null,
+  "is_nestable": true,
+  "all_presets": [],
+  "preset_id": null,
+  "real_name": "Rich Text",
+  "component_group_uuid": null,
+  "color": null,
+  "icon": null,
+  "internal_tags_list": [],
+  "internal_tag_ids": [],
+  "content_type_asset_preview": null,
+  "metadata": {}
+}

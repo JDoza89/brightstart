@@ -1,0 +1,70 @@
+{
+  "name": "cta_strip",
+  "display_name": "CTA Strip",
+  "description": "Full-width call-to-action banner with headline, supporting line, and a single CTA.",
+  "created_at": "2026-05-04T19:10:46.368Z",
+  "updated_at": "2026-05-04T19:10:46.368Z",
+  "id": 172983281130620,
+  "schema": {
+    "headline": {
+      "type": "text",
+      "display_name": "Headline",
+      "translatable": true,
+      "required": true,
+      "id": "oeQyPGbdSlS_BUGxErclNw"
+    },
+    "supporting_text": {
+      "type": "text",
+      "display_name": "Supporting Text",
+      "translatable": true,
+      "id": "b-QfKc8DRaKIgngq8LSlCw"
+    },
+    "cta": {
+      "type": "bloks",
+      "display_name": "CTA",
+      "restrict_components": true,
+      "component_whitelist": [
+        "cta_link"
+      ],
+      "minimum": 1,
+      "maximum": 1,
+      "required": true,
+      "id": "imw-8mxkS9-DZc5_rKjCoA"
+    },
+    "theme": {
+      "type": "option",
+      "display_name": "Theme",
+      "options": [
+        {
+          "name": "Navy",
+          "value": "navy"
+        },
+        {
+          "name": "Teal",
+          "value": "teal"
+        },
+        {
+          "name": "Cream",
+          "value": "cream"
+        }
+      ],
+      "default_value": "navy",
+      "id": "oMkCydzCSOuGrnNFZYUzaA"
+    }
+  },
+  "image": null,
+  "preview_field": "headline",
+  "is_root": false,
+  "preview_tmpl": null,
+  "is_nestable": true,
+  "all_presets": [],
+  "preset_id": null,
+  "real_name": "CTA Strip",
+  "component_group_uuid": null,
+  "color": null,
+  "icon": null,
+  "internal_tags_list": [],
+  "internal_tag_ids": [],
+  "content_type_asset_preview": null,
+  "metadata": {}
+}

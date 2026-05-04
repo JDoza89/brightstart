@@ -1,0 +1,46 @@
+{
+  "name": "team_grid",
+  "display_name": "Team Grid",
+  "description": "Grid of team members. References team_member stories so each person edits in one place.",
+  "created_at": "2026-05-04T19:10:46.784Z",
+  "updated_at": "2026-05-04T19:10:46.784Z",
+  "id": 172983282834565,
+  "schema": {
+    "header": {
+      "type": "bloks",
+      "display_name": "Header",
+      "restrict_components": true,
+      "component_whitelist": [
+        "section_header"
+      ],
+      "minimum": 0,
+      "maximum": 1,
+      "id": "euTZXTEhTpyoIHFNKwnc5g"
+    },
+    "members": {
+      "type": "options",
+      "display_name": "Members",
+      "source": "internal_stories",
+      "filter_content_type": [
+        "team_member"
+      ],
+      "required": true,
+      "id": "0uJWjivdRwiyDIQOKrIq-w"
+    }
+  },
+  "image": null,
+  "preview_field": null,
+  "is_root": false,
+  "preview_tmpl": null,
+  "is_nestable": true,
+  "all_presets": [],
+  "preset_id": null,
+  "real_name": "Team Grid",
+  "component_group_uuid": null,
+  "color": null,
+  "icon": null,
+  "internal_tags_list": [],
+  "internal_tag_ids": [],
+  "content_type_asset_preview": null,
+  "metadata": {}
+}

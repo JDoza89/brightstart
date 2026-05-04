@@ -1,0 +1,86 @@
+{
+  "name": "form_field",
+  "display_name": "Form Field",
+  "description": "Single input field used inside a contact_form.",
+  "created_at": "2026-05-04T19:10:45.651Z",
+  "updated_at": "2026-05-04T19:10:45.651Z",
+  "id": 172983278193777,
+  "schema": {
+    "name": {
+      "type": "text",
+      "display_name": "Field Name",
+      "description": "Internal name used as the form-data key (e.g. 'email').",
+      "required": true,
+      "id": "exCAK_hQRaGEuuAJqDuvOw"
+    },
+    "label": {
+      "type": "text",
+      "display_name": "Label",
+      "translatable": true,
+      "required": true,
+      "id": "ysZEeeBLTfunsE-1DgjLaA"
+    },
+    "type": {
+      "type": "option",
+      "display_name": "Type",
+      "options": [
+        {
+          "name": "Text",
+          "value": "text"
+        },
+        {
+          "name": "Email",
+          "value": "email"
+        },
+        {
+          "name": "Phone",
+          "value": "tel"
+        },
+        {
+          "name": "Textarea",
+          "value": "textarea"
+        },
+        {
+          "name": "Select",
+          "value": "select"
+        }
+      ],
+      "default_value": "text",
+      "required": true,
+      "id": "OxSGx4npSv6ODqrhpwYOFA"
+    },
+    "placeholder": {
+      "type": "text",
+      "display_name": "Placeholder",
+      "translatable": true,
+      "id": "raZy7v9JTD6WPT50lCez9w"
+    },
+    "required": {
+      "type": "boolean",
+      "display_name": "Required",
+      "default_value": false,
+      "id": "Eq6mr9h3S8GPMEFb0K4YXg"
+    },
+    "options": {
+      "type": "textarea",
+      "display_name": "Select Options",
+      "description": "One option per line, used only when Type = Select.",
+      "id": "jEFDjVy6Sh-DtGgzZSQuOw"
+    }
+  },
+  "image": null,
+  "preview_field": "label",
+  "is_root": false,
+  "preview_tmpl": null,
+  "is_nestable": true,
+  "all_presets": [],
+  "preset_id": null,
+  "real_name": "Form Field",
+  "component_group_uuid": null,
+  "color": null,
+  "icon": null,
+  "internal_tags_list": [],
+  "internal_tag_ids": [],
+  "content_type_asset_preview": null,
+  "metadata": {}
+}

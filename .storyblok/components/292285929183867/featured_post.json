@@ -1,0 +1,35 @@
+{
+  "name": "featured_post",
+  "display_name": "Featured Post",
+  "description": "Highlights a single referenced article. All fields pull from the referenced story.",
+  "created_at": "2026-05-04T19:10:45.787Z",
+  "updated_at": "2026-05-04T19:10:45.787Z",
+  "id": 172983278750837,
+  "schema": {
+    "article": {
+      "type": "option",
+      "display_name": "Article",
+      "source": "internal_stories",
+      "filter_content_type": [
+        "article"
+      ],
+      "required": true,
+      "id": "xye_ESccSo6rMIEWNTddGA"
+    }
+  },
+  "image": null,
+  "preview_field": null,
+  "is_root": false,
+  "preview_tmpl": null,
+  "is_nestable": true,
+  "all_presets": [],
+  "preset_id": null,
+  "real_name": "Featured Post",
+  "component_group_uuid": null,
+  "color": null,
+  "icon": null,
+  "internal_tags_list": [],
+  "internal_tag_ids": [],
+  "content_type_asset_preview": null,
+  "metadata": {}
+}

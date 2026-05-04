@@ -1,0 +1,106 @@
+{
+  "name": "Building a studio that says no",
+  "parent_id": 172991305565028,
+  "group_id": "ec59d9a6-9cf8-4e80-9b63-f18cb9b0d6a4",
+  "alternates": [],
+  "created_at": "2026-05-04T19:44:48.664Z",
+  "deleted_at": null,
+  "sort_by_date": null,
+  "tag_list": [],
+  "updated_at": "2026-05-04T19:44:48.664Z",
+  "published_at": null,
+  "id": 172991646405495,
+  "uuid": "9a59efa8-96d6-4a39-9dfa-eda8c666f666",
+  "is_folder": false,
+  "content": {
+    "seo": [],
+    "_uid": "2b479376-3f6c-4534-84ff-e5cd97056780",
+    "body": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Draft — article body to be written.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    "author": "",
+    "summary": "On the hidden cost of saying yes to every project.",
+    "category": "studio",
+    "featured": false,
+    "component": "article",
+    "hero_image": {
+      "id": 172989046583483,
+      "alt": "Building a studio that says no",
+      "name": "",
+      "focus": "",
+      "title": "",
+      "filename": "https://s3.amazonaws.com/a.storyblok.com/f/292285929183867/96ebfa9e11/card-marketing-growth.jpg",
+      "fieldtype": "asset"
+    }
+  },
+  "published": false,
+  "slug": "studio-that-says-no",
+  "path": null,
+  "full_slug": "blog/studio-that-says-no",
+  "default_root": null,
+  "disble_fe_editor": false,
+  "disable_fe_editor": false,
+  "parent": {
+    "id": 172991305565028,
+    "uuid": "b24c5619-4842-4b07-9598-962ee6c086a8",
+    "name": "Blog",
+    "slug": "blog",
+    "disble_fe_editor": false
+  },
+  "is_startpage": false,
+  "unpublished_changes": false,
+  "meta_data": null,
+  "imported_at": null,
+  "preview_token": {
+    "token": "1d8ff3befc55296af73826cce034824bd3a9e169",
+    "timestamp": "1777932105"
+  },
+  "pinned": false,
+  "breadcrumbs": [
+    {
+      "id": 172991305565028,
+      "name": "Blog",
+      "parent_id": 0,
+      "disble_fe_editor": false,
+      "disable_fe_editor": false,
+      "path": null,
+      "slug": "blog",
+      "translated_slugs": []
+    }
+  ],
+  "publish_at": null,
+  "expire_at": null,
+  "first_published_at": null,
+  "last_author": {
+    "id": 290014,
+    "userid": "daniel.mendoza@storyblok.com",
+    "friendly_name": "Daniel Mendoza"
+  },
+  "last_author_id": 290014,
+  "user_ids": [],
+  "space_role_ids": [],
+  "translated_slugs": [],
+  "localized_paths": [],
+  "position": -20,
+  "translated_stories": [],
+  "can_not_view": false,
+  "is_scheduled": null,
+  "scheduled_dates": null,
+  "ideas": [],
+  "current_version_id": 172991646880959,
+  "variant_type": null,
+  "experiment_ids": [],
+  "stage": null,
+  "favourite_for_user_ids": []
+}

@@ -1,0 +1,58 @@
+{
+  "name": "content_card",
+  "display_name": "Content Card",
+  "description": "Inline-authored marketing card used inside a card_grid (image + category + title + description + link).",
+  "created_at": "2026-05-04T19:10:45.704Z",
+  "updated_at": "2026-05-04T19:10:45.704Z",
+  "id": 172983278419059,
+  "schema": {
+    "image": {
+      "type": "asset",
+      "display_name": "Image",
+      "filetypes": [
+        "images"
+      ],
+      "id": "9VHxgK7zSOOJx_888eD87A"
+    },
+    "category": {
+      "type": "option",
+      "display_name": "Category",
+      "source": "internal",
+      "datasource_slug": "categories",
+      "id": "zbMN0S1zQgS-UITux-PARQ"
+    },
+    "title": {
+      "type": "text",
+      "display_name": "Title",
+      "translatable": true,
+      "required": true,
+      "id": "EtphqfEVSeqeqFL6kxpIZQ"
+    },
+    "description": {
+      "type": "textarea",
+      "display_name": "Description",
+      "translatable": true,
+      "id": "MewN06MBRqC339lp85mAtg"
+    },
+    "link": {
+      "type": "multilink",
+      "display_name": "Link",
+      "id": "pfY4DQYUTU6jL30D1aZqYA"
+    }
+  },
+  "image": null,
+  "preview_field": "title",
+  "is_root": false,
+  "preview_tmpl": null,
+  "is_nestable": true,
+  "all_presets": [],
+  "preset_id": null,
+  "real_name": "Content Card",
+  "component_group_uuid": null,
+  "color": null,
+  "icon": null,
+  "internal_tags_list": [],
+  "internal_tag_ids": [],
+  "content_type_asset_preview": null,
+  "metadata": {}
+}

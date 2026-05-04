@@ -1,0 +1,44 @@
+{
+  "name": "section_header",
+  "display_name": "Section Header",
+  "description": "Reusable section preamble: eyebrow + title + supporting sentence. Embed inside section blocks as an optional header.",
+  "created_at": "2026-05-04T19:10:46.112Z",
+  "updated_at": "2026-05-04T19:10:46.112Z",
+  "id": 172983280082042,
+  "schema": {
+    "eyebrow": {
+      "type": "text",
+      "display_name": "Eyebrow",
+      "translatable": true,
+      "id": "i_TskwpqSDG0dHuIkMGClA"
+    },
+    "title": {
+      "type": "text",
+      "display_name": "Title",
+      "translatable": true,
+      "required": true,
+      "id": "JXOQ9JprQYyMuw-aHRnvxQ"
+    },
+    "supporting_text": {
+      "type": "textarea",
+      "display_name": "Supporting Text",
+      "translatable": true,
+      "id": "u1FFBYUuTs6nluvSNt-HeQ"
+    }
+  },
+  "image": null,
+  "preview_field": "title",
+  "is_root": false,
+  "preview_tmpl": null,
+  "is_nestable": true,
+  "all_presets": [],
+  "preset_id": null,
+  "real_name": "Section Header",
+  "component_group_uuid": null,
+  "color": null,
+  "icon": null,
+  "internal_tags_list": [],
+  "internal_tag_ids": [],
+  "content_type_asset_preview": null,
+  "metadata": {}
+}

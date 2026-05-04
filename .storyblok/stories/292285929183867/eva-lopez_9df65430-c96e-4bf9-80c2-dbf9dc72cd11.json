@@ -1,0 +1,94 @@
+{
+  "name": "Eva Lopez",
+  "parent_id": 172991308338021,
+  "group_id": "5ec8a373-aea6-44f2-b347-b0920f52cdba",
+  "alternates": [],
+  "created_at": "2026-05-04T19:43:39.696Z",
+  "deleted_at": null,
+  "sort_by_date": null,
+  "tag_list": [],
+  "updated_at": "2026-05-04T19:43:39.696Z",
+  "published_at": null,
+  "id": 172991363904360,
+  "uuid": "9df65430-c96e-4bf9-80c2-dbf9dc72cd11",
+  "is_folder": false,
+  "content": {
+    "bio": {
+      "type": "doc",
+      "content": []
+    },
+    "_uid": "34a19b37-4792-43dd-a930-c1f1e562af00",
+    "role": "Founder & Strategy",
+    "avatar": {
+      "id": 172989162762442,
+      "alt": "Eva Lopez",
+      "name": "",
+      "focus": "",
+      "title": "",
+      "filename": "https://s3.amazonaws.com/a.storyblok.com/f/292285929183867/be779ae70e/team-eva-lopez.png",
+      "fieldtype": "asset"
+    },
+    "socials": [],
+    "component": "team_member",
+    "full_name": "Eva Lopez"
+  },
+  "published": false,
+  "slug": "eva-lopez",
+  "path": null,
+  "full_slug": "team/eva-lopez",
+  "default_root": null,
+  "disble_fe_editor": false,
+  "disable_fe_editor": false,
+  "parent": {
+    "id": 172991308338021,
+    "uuid": "5a277752-fdab-4a2c-b5a7-bf90ed01f864",
+    "name": "Team",
+    "slug": "team",
+    "disble_fe_editor": false
+  },
+  "is_startpage": false,
+  "unpublished_changes": false,
+  "meta_data": null,
+  "imported_at": null,
+  "preview_token": {
+    "token": "c1ca32a64002f64c2a1b77b667d0058d972bae4c",
+    "timestamp": "1777932106"
+  },
+  "pinned": false,
+  "breadcrumbs": [
+    {
+      "id": 172991308338021,
+      "name": "Team",
+      "parent_id": 0,
+      "disble_fe_editor": false,
+      "disable_fe_editor": false,
+      "path": null,
+      "slug": "team",
+      "translated_slugs": []
+    }
+  ],
+  "publish_at": null,
+  "expire_at": null,
+  "first_published_at": null,
+  "last_author": {
+    "id": 290014,
+    "userid": "daniel.mendoza@storyblok.com",
+    "friendly_name": "Daniel Mendoza"
+  },
+  "last_author_id": 290014,
+  "user_ids": [],
+  "space_role_ids": [],
+  "translated_slugs": [],
+  "localized_paths": [],
+  "position": 0,
+  "translated_stories": [],
+  "can_not_view": false,
+  "is_scheduled": null,
+  "scheduled_dates": null,
+  "ideas": [],
+  "current_version_id": 172991364187240,
+  "variant_type": null,
+  "experiment_ids": [],
+  "stage": null,
+  "favourite_for_user_ids": []
+}

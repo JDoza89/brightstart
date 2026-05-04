@@ -1,0 +1,39 @@
+{
+  "name": "social_link",
+  "display_name": "Social Link",
+  "description": "Single social profile link, used on team_member and config_global.",
+  "created_at": "2026-05-04T19:10:46.016Z",
+  "updated_at": "2026-05-04T19:10:46.016Z",
+  "id": 172983279688824,
+  "schema": {
+    "platform": {
+      "type": "option",
+      "display_name": "Platform",
+      "source": "internal",
+      "datasource_slug": "social_platforms",
+      "required": true,
+      "id": "mOSuBclLQ7GJh0PjGqKUZA"
+    },
+    "url": {
+      "type": "text",
+      "display_name": "URL",
+      "required": true,
+      "id": "DPez19o-TDSp4lS8z81bvQ"
+    }
+  },
+  "image": null,
+  "preview_field": "platform",
+  "is_root": false,
+  "preview_tmpl": null,
+  "is_nestable": true,
+  "all_presets": [],
+  "preset_id": null,
+  "real_name": "Social Link",
+  "component_group_uuid": null,
+  "color": null,
+  "icon": null,
+  "internal_tags_list": [],
+  "internal_tag_ids": [],
+  "content_type_asset_preview": null,
+  "metadata": {}
+}

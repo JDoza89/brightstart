@@ -1,0 +1,94 @@
+{
+  "name": "What kind of projects do you take on?",
+  "parent_id": 172991310213990,
+  "group_id": "7284d5eb-7d3d-4538-b64a-f486a9407c21",
+  "alternates": [],
+  "created_at": "2026-05-04T19:43:59.951Z",
+  "deleted_at": null,
+  "sort_by_date": null,
+  "tag_list": [],
+  "updated_at": "2026-05-04T19:43:59.951Z",
+  "published_at": null,
+  "id": 172991446868845,
+  "uuid": "712591e2-aa38-44ea-bd69-39107159d512",
+  "is_folder": false,
+  "content": {
+    "_uid": "778565da-6c2c-41da-afa8-dab100a3dfe9",
+    "topic": "",
+    "answer": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "We focus on brand identity, web design, and growth campaigns for small-to-mid-size businesses, especially in wellness, food & drink, and lifestyle.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    "question": "What kind of projects do you take on?",
+    "component": "faq_entry"
+  },
+  "published": false,
+  "slug": "projects-we-take-on",
+  "path": null,
+  "full_slug": "faq/projects-we-take-on",
+  "default_root": null,
+  "disble_fe_editor": false,
+  "disable_fe_editor": false,
+  "parent": {
+    "id": 172991310213990,
+    "uuid": "ff6cb852-9465-457b-8d56-4dd80f971c41",
+    "name": "FAQ",
+    "slug": "faq",
+    "disble_fe_editor": false
+  },
+  "is_startpage": false,
+  "unpublished_changes": false,
+  "meta_data": null,
+  "imported_at": null,
+  "preview_token": {
+    "token": "c1ca32a64002f64c2a1b77b667d0058d972bae4c",
+    "timestamp": "1777932106"
+  },
+  "pinned": false,
+  "breadcrumbs": [
+    {
+      "id": 172991310213990,
+      "name": "FAQ",
+      "parent_id": 0,
+      "disble_fe_editor": false,
+      "disable_fe_editor": false,
+      "path": null,
+      "slug": "faq",
+      "translated_slugs": []
+    }
+  ],
+  "publish_at": null,
+  "expire_at": null,
+  "first_published_at": null,
+  "last_author": {
+    "id": 290014,
+    "userid": "daniel.mendoza@storyblok.com",
+    "friendly_name": "Daniel Mendoza"
+  },
+  "last_author_id": 290014,
+  "user_ids": [],
+  "space_role_ids": [],
+  "translated_slugs": [],
+  "localized_paths": [],
+  "position": 0,
+  "translated_stories": [],
+  "can_not_view": false,
+  "is_scheduled": null,
+  "scheduled_dates": null,
+  "ideas": [],
+  "current_version_id": 172991447368835,
+  "variant_type": null,
+  "experiment_ids": [],
+  "stage": null,
+  "favourite_for_user_ids": []
+}

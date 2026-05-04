@@ -1,0 +1,48 @@
+{
+  "name": "card_grid",
+  "display_name": "Card Grid",
+  "description": "Grid of inline-authored marketing cards (not blog posts — use post_grid for those).",
+  "created_at": "2026-05-04T19:10:46.368Z",
+  "updated_at": "2026-05-04T19:10:46.368Z",
+  "id": 172983281134717,
+  "schema": {
+    "header": {
+      "type": "bloks",
+      "display_name": "Header",
+      "restrict_components": true,
+      "component_whitelist": [
+        "section_header"
+      ],
+      "minimum": 0,
+      "maximum": 1,
+      "id": "bnH-SU7pSjGi418y1-JJpQ"
+    },
+    "cards": {
+      "type": "bloks",
+      "display_name": "Cards",
+      "restrict_components": true,
+      "component_whitelist": [
+        "content_card"
+      ],
+      "minimum": 1,
+      "maximum": 12,
+      "required": true,
+      "id": "tJ4c_DxQSGSzzbXtg67dzA"
+    }
+  },
+  "image": null,
+  "preview_field": null,
+  "is_root": false,
+  "preview_tmpl": null,
+  "is_nestable": true,
+  "all_presets": [],
+  "preset_id": null,
+  "real_name": "Card Grid",
+  "component_group_uuid": null,
+  "color": null,
+  "icon": null,
+  "internal_tags_list": [],
+  "internal_tag_ids": [],
+  "content_type_asset_preview": null,
+  "metadata": {}
+}

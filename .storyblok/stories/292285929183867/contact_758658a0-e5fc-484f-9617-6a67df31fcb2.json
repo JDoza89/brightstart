@@ -1,0 +1,151 @@
+{
+  "name": "Contact",
+  "parent_id": 0,
+  "group_id": "301ba915-4411-4149-bc9f-9c195b380a40",
+  "alternates": [],
+  "created_at": "2026-05-04T19:47:03.428Z",
+  "deleted_at": null,
+  "sort_by_date": null,
+  "tag_list": [],
+  "updated_at": "2026-05-04T19:47:03.428Z",
+  "published_at": null,
+  "id": 172992198394777,
+  "uuid": "758658a0-e5fc-484f-9617-6a67df31fcb2",
+  "is_folder": false,
+  "content": {
+    "seo": [],
+    "_uid": "b310ec41-4f87-42f0-9196-78ba44328dda",
+    "body": [
+      {
+        "_uid": "669b6f51-5513-474b-8433-b8f703f36684",
+        "title": "Tell us about your project",
+        "eyebrow": "GET IN TOUCH",
+        "component": "section_header",
+        "supporting_text": "We read every message. Expect a thoughtful reply, usually within one business day."
+      },
+      {
+        "_uid": "bb9a6d5e-1ff1-40e4-ae6b-c977d07d8b74",
+        "fields": [
+          {
+            "_uid": "fa6b9133-8fa3-416c-8a4a-ab56d4d1c86c",
+            "name": "name",
+            "type": "text",
+            "label": "Your name",
+            "required": true,
+            "component": "form_field",
+            "placeholder": "Jane Cooper"
+          },
+          {
+            "_uid": "6c901def-f8e7-4d78-a0b5-8acf0f1fb206",
+            "name": "email",
+            "type": "email",
+            "label": "Email",
+            "required": true,
+            "component": "form_field",
+            "placeholder": "jane@example.com"
+          },
+          {
+            "_uid": "14f85eb5-6c96-47bd-a829-291df7fef36e",
+            "name": "company",
+            "type": "text",
+            "label": "Company",
+            "required": false,
+            "component": "form_field",
+            "placeholder": "BrightStart Studio"
+          },
+          {
+            "_uid": "fdfabdaf-e168-4981-acf6-d9d47bc746cc",
+            "name": "message",
+            "type": "textarea",
+            "label": "How can we help?",
+            "required": true,
+            "component": "form_field",
+            "placeholder": "Tell us a bit about your project, timeline, and budget…"
+          }
+        ],
+        "header": [
+          {
+            "_uid": "017b610f-6daf-4efd-ab82-194477c4a18f",
+            "title": "Send us a note",
+            "component": "section_header"
+          }
+        ],
+        "component": "contact_form",
+        "submit_label": "Send message",
+        "submit_endpoint": "",
+        "success_message": "Thanks — we'll be in touch soon."
+      },
+      {
+        "_uid": "b0cc5cba-50c0-48c7-b1f0-49dc00a77fbc",
+        "blocks": [
+          {
+            "_uid": "dd5305fd-6e0c-4b50-b4f6-a0d9647c8421",
+            "label": "EMAIL",
+            "primary": "hello@brightstart.studio",
+            "component": "info_block",
+            "secondary": "press@brightstart.studio"
+          },
+          {
+            "_uid": "28a144ff-cf75-48cb-8b08-af74792c60b5",
+            "label": "STUDIO",
+            "primary": "123 Sunbeam Lane",
+            "component": "info_block",
+            "secondary": "Lisbon, Portugal — Open Mon–Fri, 9–17"
+          },
+          {
+            "_uid": "9d9eb34a-8896-4671-8b6b-d1d9f7930c2e",
+            "label": "SOCIAL",
+            "primary": "@brightstart on Instagram",
+            "component": "info_block",
+            "secondary": "@brightstartco on LinkedIn"
+          }
+        ],
+        "component": "info_block_group"
+      }
+    ],
+    "title": "Contact",
+    "component": "page"
+  },
+  "published": false,
+  "slug": "contact",
+  "path": null,
+  "full_slug": "contact",
+  "default_root": null,
+  "disble_fe_editor": false,
+  "disable_fe_editor": false,
+  "parent": null,
+  "is_startpage": false,
+  "unpublished_changes": false,
+  "meta_data": null,
+  "imported_at": null,
+  "preview_token": {
+    "token": "1d8ff3befc55296af73826cce034824bd3a9e169",
+    "timestamp": "1777932105"
+  },
+  "pinned": false,
+  "breadcrumbs": [],
+  "publish_at": null,
+  "expire_at": null,
+  "first_published_at": null,
+  "last_author": {
+    "id": 290014,
+    "userid": "daniel.mendoza@storyblok.com",
+    "friendly_name": "Daniel Mendoza"
+  },
+  "last_author_id": 290014,
+  "user_ids": [],
+  "space_role_ids": [],
+  "translated_slugs": [],
+  "localized_paths": [],
+  "position": -50,
+  "translated_stories": [],
+  "can_not_view": false,
+  "is_scheduled": null,
+  "scheduled_dates": null,
+  "ideas": [],
+  "current_version_id": 172992198907335,
+  "variant_type": null,
+  "experiment_ids": [],
+  "stage": null,
+  "favourite_for_user_ids": []
+}

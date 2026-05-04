@@ -1,0 +1,46 @@
+{
+  "name": "cta_link",
+  "display_name": "CTA Link",
+  "description": "Call-to-action link used inside hero, cta_strip, nav, and other section blocks.",
+  "created_at": "2026-05-04T19:10:45.578Z",
+  "updated_at": "2026-05-04T19:10:45.578Z",
+  "id": 172983277898864,
+  "schema": {
+    "label": {
+      "type": "text",
+      "display_name": "Label",
+      "translatable": true,
+      "required": true,
+      "id": "ECcqr8RPTt28Aw0Y9FDcHw"
+    },
+    "link": {
+      "type": "multilink",
+      "display_name": "Link",
+      "required": true,
+      "id": "AQs_lpdaRCOZXjbidTDIUQ"
+    },
+    "style": {
+      "type": "option",
+      "display_name": "Style",
+      "source": "internal",
+      "datasource_slug": "cta_styles",
+      "default_value": "primary",
+      "id": "zt9fmL8gS_yaHnxYsZoCqg"
+    }
+  },
+  "image": null,
+  "preview_field": "label",
+  "is_root": false,
+  "preview_tmpl": null,
+  "is_nestable": true,
+  "all_presets": [],
+  "preset_id": null,
+  "real_name": "CTA Link",
+  "component_group_uuid": null,
+  "color": null,
+  "icon": null,
+  "internal_tags_list": [],
+  "internal_tag_ids": [],
+  "content_type_asset_preview": null,
+  "metadata": {}
+}
