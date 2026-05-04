@@ -1,0 +1,113 @@
+{
+  "name": "article",
+  "display_name": "Article",
+  "description": "Blog post content type. Title and slug are story-level — set them on the story, not here.",
+  "created_at": "2026-05-04T19:10:46.376Z",
+  "updated_at": "2026-05-04T19:10:46.376Z",
+  "id": 172983281163391,
+  "schema": {
+    "tab_main": {
+      "type": "tab",
+      "display_name": "Main",
+      "keys": [
+        "summary",
+        "hero_image",
+        "category",
+        "author",
+        "read_time",
+        "publish_date",
+        "featured",
+        "body"
+      ],
+      "id": "2r9qJw"
+    },
+    "summary": {
+      "type": "textarea",
+      "display_name": "Summary",
+      "translatable": true,
+      "description": "Short excerpt shown in cards and featured posts.",
+      "required": true,
+      "id": "kCQxAJCxQmCK1EVMGEXwNg"
+    },
+    "hero_image": {
+      "type": "asset",
+      "display_name": "Hero Image",
+      "filetypes": [
+        "images"
+      ],
+      "id": "jGnrCaL_QDGOFQThfSZO0Q"
+    },
+    "category": {
+      "type": "option",
+      "display_name": "Category",
+      "source": "internal",
+      "datasource_slug": "categories",
+      "id": "B_o-X2XFSw6BN9YhapJYQg"
+    },
+    "author": {
+      "type": "option",
+      "display_name": "Author",
+      "source": "internal_stories",
+      "filter_content_type": [
+        "team_member"
+      ],
+      "id": "ZGREq0BPTLuqaLw1pGxUwQ"
+    },
+    "read_time": {
+      "type": "number",
+      "display_name": "Read Time (minutes)",
+      "id": "DqYBARFBSQy4FML45eUU6w"
+    },
+    "publish_date": {
+      "type": "datetime",
+      "display_name": "Publish Date",
+      "id": "diss1YTjThWxvvebt5Qinw"
+    },
+    "featured": {
+      "type": "boolean",
+      "display_name": "Featured",
+      "default_value": false,
+      "id": "aQa9yD4AQ5K_TkfFM-ZsBQ"
+    },
+    "body": {
+      "type": "richtext",
+      "display_name": "Body",
+      "translatable": true,
+      "id": "fEuuLBTOTYmHuqfITGR63Q"
+    },
+    "tab_seo": {
+      "type": "tab",
+      "display_name": "SEO",
+      "keys": [
+        "seo"
+      ],
+      "id": "2r_OgA"
+    },
+    "seo": {
+      "type": "bloks",
+      "display_name": "SEO",
+      "restrict_components": true,
+      "component_whitelist": [
+        "seo_meta"
+      ],
+      "minimum": 0,
+      "maximum": 1,
+      "id": "6rSU8o2gRLWHndUT_bVGqw"
+    }
+  },
+  "image": null,
+  "preview_field": "summary",
+  "is_root": true,
+  "preview_tmpl": null,
+  "is_nestable": false,
+  "all_presets": [],
+  "preset_id": null,
+  "real_name": "Article",
+  "component_group_uuid": null,
+  "color": null,
+  "icon": null,
+  "internal_tags_list": [],
+  "internal_tag_ids": [],
+  "content_type_asset_preview": null,
+  "metadata": {}
+}

@@ -1,0 +1,375 @@
+{
+  "name": "Config",
+  "parent_id": 0,
+  "group_id": "8d91ca8d-4c8d-45d4-a655-2cabb601889b",
+  "alternates": [],
+  "created_at": "2026-05-04T19:52:39.289Z",
+  "deleted_at": null,
+  "sort_by_date": null,
+  "tag_list": [],
+  "updated_at": "2026-05-04T19:52:39.289Z",
+  "published_at": null,
+  "id": 172993574089639,
+  "uuid": "e53ee4f2-3001-48ec-9563-98fcffa3b8fb",
+  "is_folder": false,
+  "content": {
+    "_uid": "a098adf3-2612-4d53-b61b-229331add43e",
+    "nav_cta": [
+      {
+        "_uid": "b11d8492-59c0-4411-886c-6896f67f5451",
+        "link": {
+          "id": "",
+          "url": "/contact",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "/contact"
+        },
+        "label": "Get in touch",
+        "style": "primary",
+        "component": "cta_link"
+      }
+    ],
+    "component": "config_global",
+    "nav_links": [
+      {
+        "_uid": "ae0fa61e-ad21-46d7-9845-0be1933b1cb8",
+        "link": {
+          "id": "",
+          "url": "/",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "/"
+        },
+        "label": "Home",
+        "component": "nav_link"
+      },
+      {
+        "_uid": "a6de4f40-6539-4061-ae07-dddcb481ac26",
+        "link": {
+          "id": "",
+          "url": "/about",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "/about"
+        },
+        "label": "About",
+        "component": "nav_link"
+      },
+      {
+        "_uid": "24da3595-15f3-4070-9076-f656203234a1",
+        "link": {
+          "id": "",
+          "url": "/blog",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "/blog"
+        },
+        "label": "Blog",
+        "component": "nav_link"
+      },
+      {
+        "_uid": "f4a06278-f7bb-4088-83df-a94cc06d3988",
+        "link": {
+          "id": "",
+          "url": "/faq",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "/faq"
+        },
+        "label": "FAQ",
+        "component": "nav_link"
+      },
+      {
+        "_uid": "929bd8ea-af6e-4f5b-8f94-341a76d89ada",
+        "link": {
+          "id": "",
+          "url": "/contact",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": "/contact"
+        },
+        "label": "Contact",
+        "component": "nav_link"
+      }
+    ],
+    "brand_name": "BrightStart",
+    "copyright_text": "© 2026 BrightStart. All rights reserved.",
+    "footer_columns": [
+      {
+        "_uid": "6d0aa61f-ce51-42ed-a894-a683194316f5",
+        "links": [
+          {
+            "_uid": "aa02d09d-8ed7-4cfd-b1d4-d942762a53cb",
+            "link": {
+              "id": "",
+              "url": "/",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": "/"
+            },
+            "label": "Home",
+            "style": "ghost",
+            "component": "cta_link"
+          },
+          {
+            "_uid": "3d9b4e11-b90d-4966-8535-db2cdd643772",
+            "link": {
+              "id": "",
+              "url": "/about",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": "/about"
+            },
+            "label": "About",
+            "style": "ghost",
+            "component": "cta_link"
+          },
+          {
+            "_uid": "e8da53e0-3431-47cd-8d62-8f9f53a5f52d",
+            "link": {
+              "id": "",
+              "url": "/blog",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": "/blog"
+            },
+            "label": "Blog",
+            "style": "ghost",
+            "component": "cta_link"
+          },
+          {
+            "_uid": "919c9a6e-01f8-44d1-b47d-91b25b6db275",
+            "link": {
+              "id": "",
+              "url": "/faq",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": "/faq"
+            },
+            "label": "FAQ",
+            "style": "ghost",
+            "component": "cta_link"
+          },
+          {
+            "_uid": "3ca1eb27-6db9-464e-911c-ae59ff1bbf29",
+            "link": {
+              "id": "",
+              "url": "/contact",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": "/contact"
+            },
+            "label": "Contact",
+            "style": "ghost",
+            "component": "cta_link"
+          }
+        ],
+        "heading": "Site",
+        "component": "footer_column"
+      },
+      {
+        "_uid": "f141c0a7-df43-421b-9777-190bc60e715c",
+        "links": [
+          {
+            "_uid": "f56cf87e-8045-4e48-9c77-ce4395c1a724",
+            "link": {
+              "id": "",
+              "url": "",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "label": "Brand",
+            "style": "ghost",
+            "component": "cta_link"
+          },
+          {
+            "_uid": "7d7b07e3-8d2d-4ce3-a361-261d5d26fcba",
+            "link": {
+              "id": "",
+              "url": "",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "label": "Strategy",
+            "style": "ghost",
+            "component": "cta_link"
+          },
+          {
+            "_uid": "deb705b7-1d2c-472d-895c-05c7cde6d155",
+            "link": {
+              "id": "",
+              "url": "",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "label": "Website",
+            "style": "ghost",
+            "component": "cta_link"
+          },
+          {
+            "_uid": "16f883c0-877d-43d4-a469-a49a541f6861",
+            "link": {
+              "id": "",
+              "url": "",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "label": "Marketing",
+            "style": "ghost",
+            "component": "cta_link"
+          },
+          {
+            "_uid": "f266ec96-2d37-49d2-97b3-8837bedfa1fe",
+            "link": {
+              "id": "",
+              "url": "",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "label": "Design",
+            "style": "ghost",
+            "component": "cta_link"
+          }
+        ],
+        "heading": "Services",
+        "component": "footer_column"
+      },
+      {
+        "_uid": "50a934ba-bce1-4295-81f2-2c4ee980f3fd",
+        "links": [
+          {
+            "_uid": "d4536182-7853-4a5b-9408-0cf225500d98",
+            "link": {
+              "id": "",
+              "url": "",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "label": "Enterprise",
+            "style": "ghost",
+            "component": "cta_link"
+          },
+          {
+            "_uid": "57663410-e720-49d1-a31d-1e63c9582a23",
+            "link": {
+              "id": "",
+              "url": "",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "label": "Case Studies",
+            "style": "ghost",
+            "component": "cta_link"
+          },
+          {
+            "_uid": "c7869154-c9fc-4a50-8fd4-9017a749a68d",
+            "link": {
+              "id": "",
+              "url": "",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "label": "Legal",
+            "style": "ghost",
+            "component": "cta_link"
+          }
+        ],
+        "heading": "Resources",
+        "component": "footer_column"
+      }
+    ],
+    "footer_tagline": "Let's build something brighter.",
+    "footer_description": "Big ideas, bold creativity, joyful brand experiences.",
+    "footer_legal_links": [
+      {
+        "_uid": "8e972486-2c8f-40d1-aada-77c131fbefca",
+        "link": {
+          "id": "",
+          "url": "",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": ""
+        },
+        "label": "Privacy",
+        "style": "ghost",
+        "component": "cta_link"
+      },
+      {
+        "_uid": "b8c60886-c903-4ab1-984f-dcc190429c94",
+        "link": {
+          "id": "",
+          "url": "",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": ""
+        },
+        "label": "Terms",
+        "style": "ghost",
+        "component": "cta_link"
+      },
+      {
+        "_uid": "03ff457d-facc-47cb-97e7-5ea73b191af6",
+        "link": {
+          "id": "",
+          "url": "",
+          "linktype": "url",
+          "fieldtype": "multilink",
+          "cached_url": ""
+        },
+        "label": "Cookies",
+        "style": "ghost",
+        "component": "cta_link"
+      }
+    ]
+  },
+  "published": false,
+  "slug": "config",
+  "path": null,
+  "full_slug": "config",
+  "default_root": null,
+  "disble_fe_editor": false,
+  "disable_fe_editor": false,
+  "parent": null,
+  "is_startpage": false,
+  "unpublished_changes": false,
+  "meta_data": null,
+  "imported_at": null,
+  "preview_token": {
+    "token": "1d8ff3befc55296af73826cce034824bd3a9e169",
+    "timestamp": "1777932105"
+  },
+  "pinned": false,
+  "breadcrumbs": [],
+  "publish_at": null,
+  "expire_at": null,
+  "first_published_at": null,
+  "last_author": {
+    "id": 290014,
+    "userid": "daniel.mendoza@storyblok.com",
+    "friendly_name": "Daniel Mendoza"
+  },
+  "last_author_id": 290014,
+  "user_ids": [],
+  "space_role_ids": [],
+  "translated_slugs": [],
+  "localized_paths": [],
+  "position": -60,
+  "translated_stories": [],
+  "can_not_view": false,
+  "is_scheduled": null,
+  "scheduled_dates": null,
+  "ideas": [],
+  "current_version_id": 172993574188885,
+  "variant_type": null,
+  "experiment_ids": [],
+  "stage": null,
+  "favourite_for_user_ids": []
+}

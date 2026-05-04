@@ -1,0 +1,51 @@
+{
+  "name": "seo_meta",
+  "display_name": "SEO Meta",
+  "description": "Per-page SEO and Open Graph metadata. Embedded as a single block on page and article.",
+  "created_at": "2026-05-04T19:10:46.137Z",
+  "updated_at": "2026-05-04T19:10:46.137Z",
+  "id": 172983280188539,
+  "schema": {
+    "meta_title": {
+      "type": "text",
+      "display_name": "Meta Title",
+      "translatable": true,
+      "id": "5V1aOZ3fStWpboNphRKK7g"
+    },
+    "meta_description": {
+      "type": "textarea",
+      "display_name": "Meta Description",
+      "translatable": true,
+      "id": "wU_dM_D3T0CXXmO91LKIkQ"
+    },
+    "og_image": {
+      "type": "asset",
+      "display_name": "Open Graph Image",
+      "filetypes": [
+        "images"
+      ],
+      "id": "X774ene9S7W7vdc2eF3faQ"
+    },
+    "noindex": {
+      "type": "boolean",
+      "display_name": "Hide from search engines",
+      "default_value": false,
+      "id": "iO-xOisGRLiOBlc5chh-jA"
+    }
+  },
+  "image": null,
+  "preview_field": "meta_title",
+  "is_root": false,
+  "preview_tmpl": null,
+  "is_nestable": true,
+  "all_presets": [],
+  "preset_id": null,
+  "real_name": "SEO Meta",
+  "component_group_uuid": null,
+  "color": null,
+  "icon": null,
+  "internal_tags_list": [],
+  "internal_tag_ids": [],
+  "content_type_asset_preview": null,
+  "metadata": {}
+}

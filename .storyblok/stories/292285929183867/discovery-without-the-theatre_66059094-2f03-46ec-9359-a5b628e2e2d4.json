@@ -1,0 +1,106 @@
+{
+  "name": "Discovery without the theatre",
+  "parent_id": 172991305565028,
+  "group_id": "798060e8-3635-49ce-bb00-de1bc41355c1",
+  "alternates": [],
+  "created_at": "2026-05-04T19:44:54.073Z",
+  "deleted_at": null,
+  "sort_by_date": null,
+  "tag_list": [],
+  "updated_at": "2026-05-04T19:44:54.073Z",
+  "published_at": null,
+  "id": 172991668564857,
+  "uuid": "66059094-2f03-46ec-9359-a5b628e2e2d4",
+  "is_folder": false,
+  "content": {
+    "seo": [],
+    "_uid": "cbea6cda-9b3b-4420-9537-6ca1cb46d6cc",
+    "body": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Draft — article body to be written.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    "author": "",
+    "summary": "Cutting kickoff fluff and still landing better strategy.",
+    "category": "process",
+    "featured": false,
+    "component": "article",
+    "hero_image": {
+      "id": 172989072240830,
+      "alt": "Discovery without the theatre",
+      "name": "",
+      "focus": "",
+      "title": "",
+      "filename": "https://s3.amazonaws.com/a.storyblok.com/f/292285929183867/3537c5fdb7/hero-1.png",
+      "fieldtype": "asset"
+    }
+  },
+  "published": false,
+  "slug": "discovery-without-the-theatre",
+  "path": null,
+  "full_slug": "blog/discovery-without-the-theatre",
+  "default_root": null,
+  "disble_fe_editor": false,
+  "disable_fe_editor": false,
+  "parent": {
+    "id": 172991305565028,
+    "uuid": "b24c5619-4842-4b07-9598-962ee6c086a8",
+    "name": "Blog",
+    "slug": "blog",
+    "disble_fe_editor": false
+  },
+  "is_startpage": false,
+  "unpublished_changes": false,
+  "meta_data": null,
+  "imported_at": null,
+  "preview_token": {
+    "token": "1d8ff3befc55296af73826cce034824bd3a9e169",
+    "timestamp": "1777932105"
+  },
+  "pinned": false,
+  "breadcrumbs": [
+    {
+      "id": 172991305565028,
+      "name": "Blog",
+      "parent_id": 0,
+      "disble_fe_editor": false,
+      "disable_fe_editor": false,
+      "path": null,
+      "slug": "blog",
+      "translated_slugs": []
+    }
+  ],
+  "publish_at": null,
+  "expire_at": null,
+  "first_published_at": null,
+  "last_author": {
+    "id": 290014,
+    "userid": "daniel.mendoza@storyblok.com",
+    "friendly_name": "Daniel Mendoza"
+  },
+  "last_author_id": 290014,
+  "user_ids": [],
+  "space_role_ids": [],
+  "translated_slugs": [],
+  "localized_paths": [],
+  "position": -40,
+  "translated_stories": [],
+  "can_not_view": false,
+  "is_scheduled": null,
+  "scheduled_dates": null,
+  "ideas": [],
+  "current_version_id": 172991668868296,
+  "variant_type": null,
+  "experiment_ids": [],
+  "stage": null,
+  "favourite_for_user_ids": []
+}

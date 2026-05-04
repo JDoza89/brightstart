@@ -1,0 +1,106 @@
+{
+  "name": "Design systems that scale with care",
+  "parent_id": 172991305565028,
+  "group_id": "aa3abb74-f42a-47c3-b151-e8afac388e69",
+  "alternates": [],
+  "created_at": "2026-05-04T19:44:43.194Z",
+  "deleted_at": null,
+  "sort_by_date": null,
+  "tag_list": [],
+  "updated_at": "2026-05-04T19:44:43.194Z",
+  "published_at": null,
+  "id": 172991623988085,
+  "uuid": "001562b9-ea69-4e60-a910-4f6de1445d08",
+  "is_folder": false,
+  "content": {
+    "seo": [],
+    "_uid": "2b1d5adc-1ba0-400b-b8af-d92826b00bd7",
+    "body": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Draft — article body to be written.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    "author": "",
+    "summary": "What makes a token actually useful, and why we ditched our last one.",
+    "category": "design",
+    "featured": false,
+    "component": "article",
+    "hero_image": {
+      "id": 172989038289081,
+      "alt": "Design systems that scale with care",
+      "name": "",
+      "focus": "",
+      "title": "",
+      "filename": "https://s3.amazonaws.com/a.storyblok.com/f/292285929183867/af7d5478d0/card-brand-identity.jpg",
+      "fieldtype": "asset"
+    }
+  },
+  "published": false,
+  "slug": "design-systems-that-scale",
+  "path": null,
+  "full_slug": "blog/design-systems-that-scale",
+  "default_root": null,
+  "disble_fe_editor": false,
+  "disable_fe_editor": false,
+  "parent": {
+    "id": 172991305565028,
+    "uuid": "b24c5619-4842-4b07-9598-962ee6c086a8",
+    "name": "Blog",
+    "slug": "blog",
+    "disble_fe_editor": false
+  },
+  "is_startpage": false,
+  "unpublished_changes": false,
+  "meta_data": null,
+  "imported_at": null,
+  "preview_token": {
+    "token": "c1ca32a64002f64c2a1b77b667d0058d972bae4c",
+    "timestamp": "1777932106"
+  },
+  "pinned": false,
+  "breadcrumbs": [
+    {
+      "id": 172991305565028,
+      "name": "Blog",
+      "parent_id": 0,
+      "disble_fe_editor": false,
+      "disable_fe_editor": false,
+      "path": null,
+      "slug": "blog",
+      "translated_slugs": []
+    }
+  ],
+  "publish_at": null,
+  "expire_at": null,
+  "first_published_at": null,
+  "last_author": {
+    "id": 290014,
+    "userid": "daniel.mendoza@storyblok.com",
+    "friendly_name": "Daniel Mendoza"
+  },
+  "last_author_id": 290014,
+  "user_ids": [],
+  "space_role_ids": [],
+  "translated_slugs": [],
+  "localized_paths": [],
+  "position": 0,
+  "translated_stories": [],
+  "can_not_view": false,
+  "is_scheduled": null,
+  "scheduled_dates": null,
+  "ideas": [],
+  "current_version_id": 172991624471732,
+  "variant_type": null,
+  "experiment_ids": [],
+  "stage": null,
+  "favourite_for_user_ids": []
+}

@@ -1,0 +1,62 @@
+{
+  "name": "team_member",
+  "display_name": "Team Member",
+  "description": "Team member content type. Referenced by team_grid and article.author for single-source-of-truth editing.",
+  "created_at": "2026-05-04T19:10:46.847Z",
+  "updated_at": "2026-05-04T19:10:46.847Z",
+  "id": 172983283104902,
+  "schema": {
+    "full_name": {
+      "type": "text",
+      "display_name": "Full Name",
+      "required": true,
+      "id": "Rp4FeTi9Q-msIzxkUPINPg"
+    },
+    "role": {
+      "type": "text",
+      "display_name": "Role",
+      "translatable": true,
+      "id": "KNyyBR6qS2eE8Dams6PNGQ"
+    },
+    "avatar": {
+      "type": "asset",
+      "display_name": "Avatar",
+      "filetypes": [
+        "images"
+      ],
+      "id": "LTG31jVhT_u7c1p5yMUzPg"
+    },
+    "bio": {
+      "type": "richtext",
+      "display_name": "Bio",
+      "translatable": true,
+      "id": "C4w02qJuQz-fahKZUgpvtA"
+    },
+    "socials": {
+      "type": "bloks",
+      "display_name": "Social Links",
+      "restrict_components": true,
+      "component_whitelist": [
+        "social_link"
+      ],
+      "minimum": 0,
+      "maximum": 8,
+      "id": "z-QH345lRTO2hMCtpZOj2g"
+    }
+  },
+  "image": null,
+  "preview_field": "full_name",
+  "is_root": true,
+  "preview_tmpl": null,
+  "is_nestable": false,
+  "all_presets": [],
+  "preset_id": null,
+  "real_name": "Team Member",
+  "component_group_uuid": null,
+  "color": null,
+  "icon": null,
+  "internal_tags_list": [],
+  "internal_tag_ids": [],
+  "content_type_asset_preview": null,
+  "metadata": {}
+}

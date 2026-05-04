@@ -1,0 +1,106 @@
+{
+  "name": "A love letter to working type",
+  "parent_id": 172991305565028,
+  "group_id": "585a7034-e91c-4cd8-8777-db99d32ea732",
+  "alternates": [],
+  "created_at": "2026-05-04T19:44:50.935Z",
+  "deleted_at": null,
+  "sort_by_date": null,
+  "tag_list": [],
+  "updated_at": "2026-05-04T19:44:50.935Z",
+  "published_at": null,
+  "id": 172991655707512,
+  "uuid": "b02b7f71-4fa8-4941-9f11-f3440a88c476",
+  "is_folder": false,
+  "content": {
+    "seo": [],
+    "_uid": "48c8f6d3-91d0-4504-b371-e4883cb0f204",
+    "body": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Draft — article body to be written.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    "author": "",
+    "summary": "Type that earns its keep on real pages, not just specimen sheets.",
+    "category": "typography",
+    "featured": false,
+    "component": "article",
+    "hero_image": {
+      "id": 172989055025340,
+      "alt": "A love letter to working type",
+      "name": "",
+      "focus": "",
+      "title": "",
+      "filename": "https://s3.amazonaws.com/a.storyblok.com/f/292285929183867/8f5fdf6277/card-website-design.jpg",
+      "fieldtype": "asset"
+    }
+  },
+  "published": false,
+  "slug": "love-letter-to-working-type",
+  "path": null,
+  "full_slug": "blog/love-letter-to-working-type",
+  "default_root": null,
+  "disble_fe_editor": false,
+  "disable_fe_editor": false,
+  "parent": {
+    "id": 172991305565028,
+    "uuid": "b24c5619-4842-4b07-9598-962ee6c086a8",
+    "name": "Blog",
+    "slug": "blog",
+    "disble_fe_editor": false
+  },
+  "is_startpage": false,
+  "unpublished_changes": false,
+  "meta_data": null,
+  "imported_at": null,
+  "preview_token": {
+    "token": "1d8ff3befc55296af73826cce034824bd3a9e169",
+    "timestamp": "1777932105"
+  },
+  "pinned": false,
+  "breadcrumbs": [
+    {
+      "id": 172991305565028,
+      "name": "Blog",
+      "parent_id": 0,
+      "disble_fe_editor": false,
+      "disable_fe_editor": false,
+      "path": null,
+      "slug": "blog",
+      "translated_slugs": []
+    }
+  ],
+  "publish_at": null,
+  "expire_at": null,
+  "first_published_at": null,
+  "last_author": {
+    "id": 290014,
+    "userid": "daniel.mendoza@storyblok.com",
+    "friendly_name": "Daniel Mendoza"
+  },
+  "last_author_id": 290014,
+  "user_ids": [],
+  "space_role_ids": [],
+  "translated_slugs": [],
+  "localized_paths": [],
+  "position": -30,
+  "translated_stories": [],
+  "can_not_view": false,
+  "is_scheduled": null,
+  "scheduled_dates": null,
+  "ideas": [],
+  "current_version_id": 172991655802051,
+  "variant_type": null,
+  "experiment_ids": [],
+  "stage": null,
+  "favourite_for_user_ids": []
+}

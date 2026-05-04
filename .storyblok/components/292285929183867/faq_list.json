@@ -1,0 +1,46 @@
+{
+  "name": "faq_list",
+  "display_name": "FAQ List",
+  "description": "List of FAQ entries. References faq_entry stories for reuse across pages.",
+  "created_at": "2026-05-04T19:10:46.494Z",
+  "updated_at": "2026-05-04T19:10:46.494Z",
+  "id": 172983281650816,
+  "schema": {
+    "header": {
+      "type": "bloks",
+      "display_name": "Header",
+      "restrict_components": true,
+      "component_whitelist": [
+        "section_header"
+      ],
+      "minimum": 0,
+      "maximum": 1,
+      "id": "j8DHEkKEQLegIDgr7yW5WA"
+    },
+    "entries": {
+      "type": "options",
+      "display_name": "Entries",
+      "source": "internal_stories",
+      "filter_content_type": [
+        "faq_entry"
+      ],
+      "required": true,
+      "id": "6mDKE77rR22KKvqR4LJVfg"
+    }
+  },
+  "image": null,
+  "preview_field": null,
+  "is_root": false,
+  "preview_tmpl": null,
+  "is_nestable": true,
+  "all_presets": [],
+  "preset_id": null,
+  "real_name": "FAQ List",
+  "component_group_uuid": null,
+  "color": null,
+  "icon": null,
+  "internal_tags_list": [],
+  "internal_tag_ids": [],
+  "content_type_asset_preview": null,
+  "metadata": {}
+}

@@ -1,0 +1,81 @@
+{
+  "name": "post_grid",
+  "display_name": "Post Grid",
+  "description": "Grid of blog posts. Manual selection or automatic by category/latest.",
+  "created_at": "2026-05-04T19:10:46.658Z",
+  "updated_at": "2026-05-04T19:10:46.658Z",
+  "id": 172983282318467,
+  "schema": {
+    "header": {
+      "type": "bloks",
+      "display_name": "Header",
+      "restrict_components": true,
+      "component_whitelist": [
+        "section_header"
+      ],
+      "minimum": 0,
+      "maximum": 1,
+      "id": "-NBAlEzfRMqJ4CiEXM9mWQ"
+    },
+    "mode": {
+      "type": "option",
+      "display_name": "Mode",
+      "options": [
+        {
+          "name": "Manual selection",
+          "value": "manual"
+        },
+        {
+          "name": "Latest",
+          "value": "latest"
+        },
+        {
+          "name": "By category",
+          "value": "by_category"
+        }
+      ],
+      "default_value": "latest",
+      "required": true,
+      "id": "bM57BCJAT2GlwlYm9KmJVA"
+    },
+    "articles": {
+      "type": "options",
+      "display_name": "Articles",
+      "description": "Used when Mode = Manual selection.",
+      "source": "internal_stories",
+      "filter_content_type": [
+        "article"
+      ],
+      "id": "wXn-s7pJTD6CcEmi0H6ZVg"
+    },
+    "category": {
+      "type": "option",
+      "display_name": "Category",
+      "description": "Used when Mode = By category.",
+      "source": "internal",
+      "datasource_slug": "categories",
+      "id": "Bu45jke_Q0y3E6L7UcdQlw"
+    },
+    "limit": {
+      "type": "number",
+      "display_name": "Limit",
+      "default_value": "6",
+      "id": "2A0bAByuSBKNDFdKGkAcQw"
+    }
+  },
+  "image": null,
+  "preview_field": null,
+  "is_root": false,
+  "preview_tmpl": null,
+  "is_nestable": true,
+  "all_presets": [],
+  "preset_id": null,
+  "real_name": "Post Grid",
+  "component_group_uuid": null,
+  "color": null,
+  "icon": null,
+  "internal_tags_list": [],
+  "internal_tag_ids": [],
+  "content_type_asset_preview": null,
+  "metadata": {}
+}

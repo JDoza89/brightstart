@@ -1,0 +1,46 @@
+{
+  "name": "info_block",
+  "display_name": "Info Block",
+  "description": "Eyebrow label with one or two lines of text. Used for contact info, addresses, hours.",
+  "created_at": "2026-05-04T19:10:45.779Z",
+  "updated_at": "2026-05-04T19:10:45.779Z",
+  "id": 172983278722164,
+  "schema": {
+    "label": {
+      "type": "text",
+      "display_name": "Label",
+      "translatable": true,
+      "required": true,
+      "id": "j606dWOpSBGFw8sMXXt7iQ"
+    },
+    "primary": {
+      "type": "text",
+      "display_name": "Primary Line",
+      "translatable": true,
+      "required": true,
+      "id": "ha_Xi5iMRtyCAYbhlkpBTg"
+    },
+    "secondary": {
+      "type": "text",
+      "display_name": "Secondary Line",
+      "translatable": true,
+      "description": "Optional second line.",
+      "id": "eP3Yam5WTPKn3GlvIre9RA"
+    }
+  },
+  "image": null,
+  "preview_field": "label",
+  "is_root": false,
+  "preview_tmpl": null,
+  "is_nestable": true,
+  "all_presets": [],
+  "preset_id": null,
+  "real_name": "Info Block",
+  "component_group_uuid": null,
+  "color": null,
+  "icon": null,
+  "internal_tags_list": [],
+  "internal_tag_ids": [],
+  "content_type_asset_preview": null,
+  "metadata": {}
+}

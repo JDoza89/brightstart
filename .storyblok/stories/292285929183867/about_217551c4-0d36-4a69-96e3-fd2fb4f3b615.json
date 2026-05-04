@@ -1,0 +1,132 @@
+{
+  "name": "About",
+  "parent_id": 0,
+  "group_id": "d5d08d30-fb8a-4f43-ad3e-25b2f92d642b",
+  "alternates": [],
+  "created_at": "2026-05-04T19:46:39.219Z",
+  "deleted_at": null,
+  "sort_by_date": null,
+  "tag_list": [],
+  "updated_at": "2026-05-04T19:46:39.219Z",
+  "published_at": null,
+  "id": 172992099230609,
+  "uuid": "217551c4-0d36-4a69-96e3-fd2fb4f3b615",
+  "is_folder": false,
+  "content": {
+    "seo": [],
+    "_uid": "3dcf7e0a-5049-483e-a733-0db849c9717d",
+    "body": [
+      {
+        "_uid": "7585d37c-f7c0-4f8d-b07e-9ededfe8a258",
+        "ctas": [],
+        "media": {
+          "id": 172989080404159,
+          "alt": "About BrightStart",
+          "name": "",
+          "focus": "",
+          "title": "",
+          "filename": "https://s3.amazonaws.com/a.storyblok.com/f/292285929183867/0c79a8f9c0/hero-2.png",
+          "fieldtype": "asset"
+        },
+        "eyebrow": "ABOUT US",
+        "headline": "We design joyful brands.",
+        "component": "hero",
+        "supporting_text": "BrightStart is a small, dedicated team of designers, strategists, and developers helping ambitious brands find their voice and grow with confidence."
+      },
+      {
+        "_uid": "e7f7a807-2c40-4bf4-8394-f61179227323",
+        "items": [
+          {
+            "_uid": "74ddb03f-fa40-4868-8378-091d6cf7a1b0",
+            "icon": "✦",
+            "title": "Joy first",
+            "component": "value_card",
+            "description": "Work should feel as good as it looks. We design for delight."
+          },
+          {
+            "_uid": "966fabba-f161-45da-a554-d1bbcc1cf40f",
+            "icon": "◆",
+            "title": "Bold honesty",
+            "component": "value_card",
+            "description": "We say what we think — clearly, kindly, and always in service of the work."
+          },
+          {
+            "_uid": "4d118de6-3eb5-4588-9e35-2ab456aeb46a",
+            "icon": "●",
+            "title": "Real partners",
+            "component": "value_card",
+            "description": "We build with our clients, not just for them. Long relationships beat quick wins."
+          }
+        ],
+        "header": [
+          {
+            "_uid": "ef99feaf-a051-49b4-864b-a16af6dcc3bf",
+            "title": "What we believe in",
+            "component": "section_header"
+          }
+        ],
+        "component": "value_grid"
+      },
+      {
+        "_uid": "725f5895-3f79-406d-88f7-bb9b57bf5c77",
+        "header": [
+          {
+            "_uid": "a7fdfea1-5084-4f3e-ad62-f76ba88e0fe2",
+            "title": "Meet the team",
+            "component": "section_header"
+          }
+        ],
+        "members": [
+          "9df65430-c96e-4bf9-80c2-dbf9dc72cd11",
+          "184e23ee-3bc5-4e4b-9f9e-23a73ea8d527",
+          "bf935f51-acc2-4eec-ae15-737f4f23f9e3"
+        ],
+        "component": "team_grid"
+      }
+    ],
+    "title": "About",
+    "component": "page"
+  },
+  "published": false,
+  "slug": "about",
+  "path": null,
+  "full_slug": "about",
+  "default_root": null,
+  "disble_fe_editor": false,
+  "disable_fe_editor": false,
+  "parent": null,
+  "is_startpage": false,
+  "unpublished_changes": false,
+  "meta_data": null,
+  "imported_at": null,
+  "preview_token": {
+    "token": "1d8ff3befc55296af73826cce034824bd3a9e169",
+    "timestamp": "1777932105"
+  },
+  "pinned": false,
+  "breadcrumbs": [],
+  "publish_at": null,
+  "expire_at": null,
+  "first_published_at": null,
+  "last_author": {
+    "id": 290014,
+    "userid": "daniel.mendoza@storyblok.com",
+    "friendly_name": "Daniel Mendoza"
+  },
+  "last_author_id": 290014,
+  "user_ids": [],
+  "space_role_ids": [],
+  "translated_slugs": [],
+  "localized_paths": [],
+  "position": -40,
+  "translated_stories": [],
+  "can_not_view": false,
+  "is_scheduled": null,
+  "scheduled_dates": null,
+  "ideas": [],
+  "current_version_id": 172992099734946,
+  "variant_type": null,
+  "experiment_ids": [],
+  "stage": null,
+  "favourite_for_user_ids": []
+}

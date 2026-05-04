@@ -1,0 +1,38 @@
+{
+  "name": "nav_link",
+  "display_name": "Nav Link",
+  "description": "Navigation link used inside the global navigation.",
+  "created_at": "2026-05-04T19:10:45.949Z",
+  "updated_at": "2026-05-04T19:10:45.949Z",
+  "id": 172983279414390,
+  "schema": {
+    "label": {
+      "type": "text",
+      "display_name": "Label",
+      "translatable": true,
+      "required": true,
+      "id": "huC9DbdZRHOo_uxCTK0rvA"
+    },
+    "link": {
+      "type": "multilink",
+      "display_name": "Link",
+      "required": true,
+      "id": "IORR-i9eSTGDtrzKGf1L9g"
+    }
+  },
+  "image": null,
+  "preview_field": "label",
+  "is_root": false,
+  "preview_tmpl": null,
+  "is_nestable": true,
+  "all_presets": [],
+  "preset_id": null,
+  "real_name": "Nav Link",
+  "component_group_uuid": null,
+  "color": null,
+  "icon": null,
+  "internal_tags_list": [],
+  "internal_tag_ids": [],
+  "content_type_asset_preview": null,
+  "metadata": {}
+}

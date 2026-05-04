@@ -1,0 +1,116 @@
+{
+  "name": "Blog",
+  "parent_id": 172991305565028,
+  "group_id": "eb5ea030-9568-467c-82a4-62a8a68daf9b",
+  "alternates": [],
+  "created_at": "2026-05-04T19:46:48.389Z",
+  "deleted_at": null,
+  "sort_by_date": null,
+  "tag_list": [],
+  "updated_at": "2026-05-04T19:46:48.389Z",
+  "published_at": null,
+  "id": 172992136790932,
+  "uuid": "6df9c7ac-dbf1-49b6-b78e-4979918797a7",
+  "is_folder": false,
+  "content": {
+    "seo": [],
+    "_uid": "2a6d5992-98b8-4d40-886c-cb6cf368404f",
+    "body": [
+      {
+        "_uid": "b052d1aa-4bfc-4a2e-9cbc-51be12566fe2",
+        "title": "Stories from the studio",
+        "eyebrow": "BLOG",
+        "component": "section_header",
+        "supporting_text": "Thoughts on design, branding, and the work that brings us joy."
+      },
+      {
+        "_uid": "7c3a87c8-7022-4de5-89ef-6b2e52c83357",
+        "article": "bddfdf3b-5615-4951-aa87-a7fe439aaa6c",
+        "component": "featured_post"
+      },
+      {
+        "_uid": "c9a74ce5-ec18-4ddd-af87-516eaa6585d6",
+        "mode": "manual",
+        "limit": "6",
+        "header": [
+          {
+            "_uid": "6b98fb49-5dda-46f2-ac17-0f282b6208d4",
+            "title": "More stories",
+            "component": "section_header"
+          }
+        ],
+        "articles": [
+          "001562b9-ea69-4e60-a910-4f6de1445d08",
+          "ec9d3419-6899-4020-a561-34889b6904b2",
+          "9a59efa8-96d6-4a39-9dfa-eda8c666f666",
+          "b02b7f71-4fa8-4941-9f11-f3440a88c476",
+          "66059094-2f03-46ec-9359-a5b628e2e2d4",
+          "83682e82-6ebc-487f-8b2c-effec3788218"
+        ],
+        "category": "",
+        "component": "post_grid"
+      }
+    ],
+    "title": "Blog",
+    "component": "page"
+  },
+  "published": false,
+  "slug": "blog",
+  "path": null,
+  "full_slug": "blog/",
+  "default_root": null,
+  "disble_fe_editor": false,
+  "disable_fe_editor": false,
+  "parent": {
+    "id": 172991305565028,
+    "uuid": "b24c5619-4842-4b07-9598-962ee6c086a8",
+    "name": "Blog",
+    "slug": "blog",
+    "disble_fe_editor": false
+  },
+  "is_startpage": true,
+  "unpublished_changes": false,
+  "meta_data": null,
+  "imported_at": null,
+  "preview_token": {
+    "token": "1d8ff3befc55296af73826cce034824bd3a9e169",
+    "timestamp": "1777932105"
+  },
+  "pinned": false,
+  "breadcrumbs": [
+    {
+      "id": 172991305565028,
+      "name": "Blog",
+      "parent_id": 0,
+      "disble_fe_editor": false,
+      "disable_fe_editor": false,
+      "path": null,
+      "slug": "blog",
+      "translated_slugs": []
+    }
+  ],
+  "publish_at": null,
+  "expire_at": null,
+  "first_published_at": null,
+  "last_author": {
+    "id": 290014,
+    "userid": "daniel.mendoza@storyblok.com",
+    "friendly_name": "Daniel Mendoza"
+  },
+  "last_author_id": 290014,
+  "user_ids": [],
+  "space_role_ids": [],
+  "translated_slugs": [],
+  "localized_paths": [],
+  "position": -70,
+  "translated_stories": [],
+  "can_not_view": false,
+  "is_scheduled": null,
+  "scheduled_dates": null,
+  "ideas": [],
+  "current_version_id": 172992137045423,
+  "variant_type": null,
+  "experiment_ids": [],
+  "stage": null,
+  "favourite_for_user_ids": []
+}

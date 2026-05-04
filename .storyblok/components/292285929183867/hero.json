@@ -1,0 +1,63 @@
+{
+  "name": "hero",
+  "display_name": "Hero",
+  "description": "Top-of-page hero with eyebrow, headline, supporting text, optional media, and up to two CTAs.",
+  "created_at": "2026-05-04T19:10:46.656Z",
+  "updated_at": "2026-05-04T19:10:46.656Z",
+  "id": 172983282310274,
+  "schema": {
+    "eyebrow": {
+      "type": "text",
+      "display_name": "Eyebrow",
+      "translatable": true,
+      "id": "UO46ShUHRreNo0kU7959ow"
+    },
+    "headline": {
+      "type": "text",
+      "display_name": "Headline",
+      "translatable": true,
+      "required": true,
+      "id": "0TWzMpiRQp6dqc4BuJ3f1g"
+    },
+    "supporting_text": {
+      "type": "textarea",
+      "display_name": "Supporting Text",
+      "translatable": true,
+      "id": "QU-4c9laQaGTHVMdGaPGEQ"
+    },
+    "media": {
+      "type": "asset",
+      "display_name": "Media",
+      "filetypes": [
+        "images"
+      ],
+      "id": "NSMAoAldSB-C5MNzXtk_Zw"
+    },
+    "ctas": {
+      "type": "bloks",
+      "display_name": "CTAs",
+      "restrict_components": true,
+      "component_whitelist": [
+        "cta_link"
+      ],
+      "minimum": 0,
+      "maximum": 2,
+      "id": "nTPhcHI3RI6z_gtvX9qifA"
+    }
+  },
+  "image": null,
+  "preview_field": "headline",
+  "is_root": false,
+  "preview_tmpl": null,
+  "is_nestable": true,
+  "all_presets": [],
+  "preset_id": null,
+  "real_name": "Hero",
+  "component_group_uuid": null,
+  "color": null,
+  "icon": null,
+  "internal_tags_list": [],
+  "internal_tag_ids": [],
+  "content_type_asset_preview": null,
+  "metadata": {}
+}

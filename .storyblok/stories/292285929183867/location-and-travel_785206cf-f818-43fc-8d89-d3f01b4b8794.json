@@ -1,0 +1,94 @@
+{
+  "name": "Where are you based, and do you travel?",
+  "parent_id": 172991310213990,
+  "group_id": "4012a0b6-3132-4148-8461-d6d920010bf2",
+  "alternates": [],
+  "created_at": "2026-05-04T19:44:06.737Z",
+  "deleted_at": null,
+  "sort_by_date": null,
+  "tag_list": [],
+  "updated_at": "2026-05-04T19:44:06.737Z",
+  "published_at": null,
+  "id": 172991474668403,
+  "uuid": "785206cf-f818-43fc-8d89-d3f01b4b8794",
+  "is_folder": false,
+  "content": {
+    "_uid": "08ecf316-3bc2-4a47-a503-44c01d0308ad",
+    "topic": "",
+    "answer": {
+      "type": "doc",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "text": "Draft — answer to be written.",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    },
+    "question": "Where are you based, and do you travel?",
+    "component": "faq_entry"
+  },
+  "published": false,
+  "slug": "location-and-travel",
+  "path": null,
+  "full_slug": "faq/location-and-travel",
+  "default_root": null,
+  "disble_fe_editor": false,
+  "disable_fe_editor": false,
+  "parent": {
+    "id": 172991310213990,
+    "uuid": "ff6cb852-9465-457b-8d56-4dd80f971c41",
+    "name": "FAQ",
+    "slug": "faq",
+    "disble_fe_editor": false
+  },
+  "is_startpage": false,
+  "unpublished_changes": false,
+  "meta_data": null,
+  "imported_at": null,
+  "preview_token": {
+    "token": "1d8ff3befc55296af73826cce034824bd3a9e169",
+    "timestamp": "1777932105"
+  },
+  "pinned": false,
+  "breadcrumbs": [
+    {
+      "id": 172991310213990,
+      "name": "FAQ",
+      "parent_id": 0,
+      "disble_fe_editor": false,
+      "disable_fe_editor": false,
+      "path": null,
+      "slug": "faq",
+      "translated_slugs": []
+    }
+  ],
+  "publish_at": null,
+  "expire_at": null,
+  "first_published_at": null,
+  "last_author": {
+    "id": 290014,
+    "userid": "daniel.mendoza@storyblok.com",
+    "friendly_name": "Daniel Mendoza"
+  },
+  "last_author_id": 290014,
+  "user_ids": [],
+  "space_role_ids": [],
+  "translated_slugs": [],
+  "localized_paths": [],
+  "position": -50,
+  "translated_stories": [],
+  "can_not_view": false,
+  "is_scheduled": null,
+  "scheduled_dates": null,
+  "ideas": [],
+  "current_version_id": 172991475147921,
+  "variant_type": null,
+  "experiment_ids": [],
+  "stage": null,
+  "favourite_for_user_ids": []
+}

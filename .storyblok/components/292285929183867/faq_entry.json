@@ -1,0 +1,46 @@
+{
+  "name": "faq_entry",
+  "display_name": "FAQ Entry",
+  "description": "Single FAQ question/answer. Referenced by faq_list blocks for reuse across pages.",
+  "created_at": "2026-05-04T19:10:45.696Z",
+  "updated_at": "2026-05-04T19:10:45.696Z",
+  "id": 172983278382194,
+  "schema": {
+    "question": {
+      "type": "text",
+      "display_name": "Question",
+      "translatable": true,
+      "required": true,
+      "id": "OvcRQmbiSimbzreMQtkthw"
+    },
+    "answer": {
+      "type": "richtext",
+      "display_name": "Answer",
+      "translatable": true,
+      "required": true,
+      "id": "Mk0nTf6pQjiaBmU6OVmIGA"
+    },
+    "topic": {
+      "type": "option",
+      "display_name": "Topic",
+      "source": "internal",
+      "datasource_slug": "faq_topics",
+      "id": "WRAmhb2US8S_QKUMf1Cdfg"
+    }
+  },
+  "image": null,
+  "preview_field": "question",
+  "is_root": true,
+  "preview_tmpl": null,
+  "is_nestable": false,
+  "all_presets": [],
+  "preset_id": null,
+  "real_name": "FAQ Entry",
+  "component_group_uuid": null,
+  "color": null,
+  "icon": null,
+  "internal_tags_list": [],
+  "internal_tag_ids": [],
+  "content_type_asset_preview": null,
+  "metadata": {}
+}

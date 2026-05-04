@@ -1,0 +1,246 @@
+{
+  "name": "Home",
+  "parent_id": 0,
+  "group_id": "ab303220-7a68-4164-8004-38304d8cb87e",
+  "alternates": [],
+  "created_at": "2026-05-04T18:38:03.316Z",
+  "deleted_at": null,
+  "sort_by_date": null,
+  "tag_list": [],
+  "updated_at": "2026-05-04T19:46:31.364Z",
+  "published_at": null,
+  "id": 172975240605865,
+  "uuid": "5dd9e8af-9203-4c1d-8e5b-b6c661e7214c",
+  "is_folder": false,
+  "content": {
+    "seo": [],
+    "_uid": "246269c9-78b1-443f-aea4-28748e4c3ff0",
+    "body": [
+      {
+        "_uid": "8268e106-1f39-430f-a32e-72ae79c58445",
+        "ctas": [
+          {
+            "_uid": "fe33a472-b128-4f64-9740-d08d355b607b",
+            "link": {
+              "id": "",
+              "url": "",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "label": "Get started",
+            "style": "primary",
+            "component": "cta_link"
+          },
+          {
+            "_uid": "ab943ece-4432-4d0a-aa1b-6a2dc353913d",
+            "link": {
+              "id": "",
+              "url": "",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "label": "Learn more",
+            "style": "ghost",
+            "component": "cta_link"
+          }
+        ],
+        "media": {
+          "id": 172989072240830,
+          "alt": "Where creativity meets joy.",
+          "name": "",
+          "focus": "",
+          "title": "",
+          "filename": "https://s3.amazonaws.com/a.storyblok.com/f/292285929183867/3537c5fdb7/hero-1.png",
+          "fieldtype": "asset"
+        },
+        "eyebrow": "BRAND • STRATEGY • DESIGN",
+        "headline": "Where creativity meets joy.",
+        "component": "hero",
+        "supporting_text": "We bring fresh ideas to life with energy, passion, and a touch of magic — for brands that want to stand out and feel good doing it."
+      },
+      {
+        "_uid": "2408c2b8-ec85-4431-a906-8eb5bb4c9e42",
+        "cards": [
+          {
+            "_uid": "cb908360-5143-4343-8eaa-8433cba61375",
+            "link": {
+              "id": "",
+              "url": "",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "image": {
+              "id": 172989038289081,
+              "alt": "Brand identity",
+              "name": "",
+              "focus": "",
+              "title": "",
+              "filename": "https://s3.amazonaws.com/a.storyblok.com/f/292285929183867/af7d5478d0/card-brand-identity.jpg",
+              "fieldtype": "asset"
+            },
+            "title": "Brand identity",
+            "category": "brand",
+            "component": "content_card",
+            "description": "Logos, type systems, and visual identity that captures your voice."
+          },
+          {
+            "_uid": "1cba0740-e6d5-43fc-a418-9d31f70731f0",
+            "link": {
+              "id": "",
+              "url": "",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "image": {
+              "id": 172989055025340,
+              "alt": "Website design",
+              "name": "",
+              "focus": "",
+              "title": "",
+              "filename": "https://s3.amazonaws.com/a.storyblok.com/f/292285929183867/8f5fdf6277/card-website-design.jpg",
+              "fieldtype": "asset"
+            },
+            "title": "Website design",
+            "category": "web",
+            "component": "content_card",
+            "description": "Modern, responsive websites built with Storyblok and Figma in mind."
+          },
+          {
+            "_uid": "29376226-00f2-4866-be58-2bd2a828c803",
+            "link": {
+              "id": "",
+              "url": "",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "image": {
+              "id": 172989046583483,
+              "alt": "Marketing & growth",
+              "name": "",
+              "focus": "",
+              "title": "",
+              "filename": "https://s3.amazonaws.com/a.storyblok.com/f/292285929183867/96ebfa9e11/card-marketing-growth.jpg",
+              "fieldtype": "asset"
+            },
+            "title": "Marketing & growth",
+            "category": "grow",
+            "component": "content_card",
+            "description": "Campaigns, content, and strategy to bring your brand to more people."
+          }
+        ],
+        "header": [
+          {
+            "_uid": "0ed2f731-9f55-49cc-be17-2d100103bd96",
+            "title": "Our services",
+            "eyebrow": "WHAT WE DO",
+            "component": "section_header",
+            "supporting_text": "From design to development, traffic to transformation — we help brands grow."
+          }
+        ],
+        "component": "card_grid"
+      },
+      {
+        "_uid": "245dd125-e561-4a14-ba31-d50d6ac9b0da",
+        "ctas": [
+          {
+            "_uid": "930cdd0b-3178-403b-be71-5b6786e5cf5f",
+            "link": {
+              "id": "",
+              "url": "",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "label": "Read the case study",
+            "style": "primary",
+            "component": "cta_link"
+          }
+        ],
+        "media": {
+          "id": 172989028286648,
+          "alt": "Bloom Studio case study",
+          "name": "",
+          "focus": "",
+          "title": "",
+          "filename": "https://s3.amazonaws.com/a.storyblok.com/f/292285929183867/92fbbf03bb/card-4.jpg",
+          "fieldtype": "asset"
+        },
+        "eyebrow": "CASE STUDY",
+        "headline": "How we helped Bloom Studio grow 3× in a year",
+        "component": "hero",
+        "supporting_text": "A complete brand and digital revamp that turned a quiet boutique into a household name in the wellness space."
+      },
+      {
+        "cta": [
+          {
+            "_uid": "8d0b3751-6924-49b6-a938-2680fb28fbcf",
+            "link": {
+              "id": "",
+              "url": "",
+              "linktype": "url",
+              "fieldtype": "multilink",
+              "cached_url": ""
+            },
+            "label": "Get in touch",
+            "style": "primary",
+            "component": "cta_link"
+          }
+        ],
+        "_uid": "e0f5f941-8062-4400-ab0a-d000faff4646",
+        "theme": "navy",
+        "headline": "Ready for a brighter day?",
+        "component": "cta_strip",
+        "supporting_text": "Tell us about your project — we'd love to hear from you."
+      }
+    ],
+    "title": "Home",
+    "component": "page"
+  },
+  "published": false,
+  "slug": "home",
+  "path": null,
+  "full_slug": "home",
+  "default_root": null,
+  "disble_fe_editor": false,
+  "disable_fe_editor": false,
+  "parent": null,
+  "is_startpage": false,
+  "unpublished_changes": true,
+  "meta_data": null,
+  "imported_at": null,
+  "preview_token": {
+    "token": "c1ca32a64002f64c2a1b77b667d0058d972bae4c",
+    "timestamp": "1777932106"
+  },
+  "pinned": false,
+  "breadcrumbs": [],
+  "publish_at": null,
+  "expire_at": null,
+  "first_published_at": null,
+  "last_author": {
+    "id": 290014,
+    "userid": "daniel.mendoza@storyblok.com",
+    "friendly_name": "Daniel Mendoza"
+  },
+  "last_author_id": 290014,
+  "user_ids": [],
+  "space_role_ids": [],
+  "translated_slugs": [],
+  "localized_paths": [],
+  "position": 0,
+  "translated_stories": [],
+  "can_not_view": false,
+  "is_scheduled": null,
+  "scheduled_dates": null,
+  "ideas": [],
+  "current_version_id": 172992066971028,
+  "variant_type": null,
+  "experiment_ids": [],
+  "stage": null,
+  "favourite_for_user_ids": []
+}
