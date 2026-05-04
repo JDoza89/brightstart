@@ -77,6 +77,20 @@ Back in Storyblok, open the **Home** story to start editing.
 
 Happy building!
 
+## Figma → Storyblok workflow
+
+This project was scaffolded using a sequence of Claude Code slash commands. The commands live under `.claude/commands/` and become available when you open this project in Claude Code.
+
+1. `/figma-storyblok-init` — Prompt for the Figma file and Storyblok space.
+2. `/figma-snapshot` — Bulk-cache the Figma file via `scripts/figma-snapshot.mjs`.
+3. `/figma-storyblok-propose` — Read the Figma file and propose a content model.
+4. `/figma-storyblok-components` — Generate component JSON, snapshot the space, push via the CLI.
+5. `/figma-storyblok-assets` — Pull photo/hero media from Figma, push via the CLI.
+6. `/figma-storyblok-stories` — Generate story JSON and push as drafts via the Management API.
+7. `/figma-storyblok-build` — Build React components for each block matching the Figma design.
+8. `/ship-for-review` — Push branch, pause for Netlify install, open PR, swap Storyblok preview URL.
+9. `/merge-for-launch` — Merge the PR, wait for production deploy, swap Storyblok preview URL to the production site.
+
 ## Resources
 
 - To learn more about what you can do with Storyblok, visit [our documentation and learning hub](https://www.storyblok.com/docs).
